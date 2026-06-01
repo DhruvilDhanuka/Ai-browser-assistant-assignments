@@ -1,0 +1,21 @@
+{
+  "user": {
+    "name": {
+      "first": "Aanya",
+      "last": "Sharma",
+      "full": "Aanya Sharma"
+    },
+    "email": "aanya.sharma@example.com",
+    "phone": {
+      "primary": "+91-98765-43210",
+      "alternate": "+91-91234-56789"
+    },
+    "address": {
+      "street": "42, Sector 15",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "postal_code": "122001",
+      "country": "India"
+    }
+  }
+}
