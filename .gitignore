@@ -10,10 +10,6 @@ __pycache__/
 *$py.class
 *.so
 
-# Test artifacts
-screenshot.png
-test-image.png
-
 # IDE
 .vscode/
 .idea/
