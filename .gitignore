@@ -1,0 +1,27 @@
+# Virtual Environment
+venv/
+env/
+.venv
+
+# Python cache
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*$py.class
+*.so
+
+# Test artifacts
+screenshot.png
+test-image.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env

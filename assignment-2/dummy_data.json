@@ -1,0 +1,16 @@
+{
+    "first_name": "Dhruvil",
+    "last_name": "Dhanuka",
+    "email": "dhruvil@example.com",
+    "gender": "Male",
+    "mobile": "9876543210",
+    "date": "13",
+    "month": "December",
+    "year" : "2025",
+    "subjects": ["Maths", "Physics"],
+    "hobbies": ["Sports", "Reading", "Music"],
+    "picture_path": "./test-image.png",
+    "current_address": "IIT Bombay, Powai, Mumbai",
+    "state": "NCR",
+    "city": "Gurgaon"
+}
