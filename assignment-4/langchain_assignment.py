@@ -30,7 +30,7 @@ def navigate_to(url: str):
 @tool
 def wait_for_user() -> str:
     """Call this when a CAPTCHA or login is detected on the page that requires human intervention."""
-    input("⚠️  Human input needed (CAPTCHA/login). Complete it in the browser then press Enter here to continue...")
+    input("Human input needed (CAPTCHA/login). Complete it in the browser then press Enter here to continue...")
     return "User completed manual step. Continuing..."
 
 
