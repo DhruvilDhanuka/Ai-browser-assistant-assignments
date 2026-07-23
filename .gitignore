@@ -22,3 +22,14 @@ Thumbs.db
 
 # Environment variables
 .env
+
+
+#env file 
+AI-browser-assistant/backend/.env
+
+AI-browser-assistant/backend/credentials.json
+AI-browser-assistant/backend/token.json
+
+AI-browser-assistant/backend/*.db
+
+AI-browser-assistant/backend/venv

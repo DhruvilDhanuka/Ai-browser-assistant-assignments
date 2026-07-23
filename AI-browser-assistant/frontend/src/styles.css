@@ -1,0 +1,25 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: 'Inter', 'SF Pro Display', 'Segoe UI', sans-serif;
+}
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body,
+#app {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  background: #09090b;
+}
+
+button,
+input {
+  font: inherit;
+}
